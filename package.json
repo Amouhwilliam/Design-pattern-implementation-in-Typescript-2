@@ -1,0 +1,18 @@
+{
+  "devDependencies": {
+    "@types/node": "^17.0.10",
+    "typescript": "^4.4.4"
+  },
+  "name": "application_design_project",
+  "description": "## This application is made in typescript:",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amouh William - Nadeesh Wannakuwaththa Waduge",
+  "license": "MIT",
+  "dependencies": {
+    "events": "^3.3.0"
+  }
+}
